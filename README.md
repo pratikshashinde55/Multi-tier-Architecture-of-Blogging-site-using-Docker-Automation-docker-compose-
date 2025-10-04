@@ -73,7 +73,7 @@ chmod +x /usr/local/bin/docker-compose
 Once installed, you can verify the installation with:
 
 ```bash
-docker-compose --version
+docker-compose version
 ```
 
    <img width="1089" height="414" alt="Screenshot 2025-06-07 222114" src="https://github.com/user-attachments/assets/e6d28a1c-bc35-4b35-9440-d4cbd6a9bd3d" />
