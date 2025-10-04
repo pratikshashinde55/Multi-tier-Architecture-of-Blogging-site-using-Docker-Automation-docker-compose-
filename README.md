@@ -36,7 +36,7 @@ Docker Compose is a tool that enables automation in managing Docker containers. 
 **Steps to Install Docker Compose:**
 
 1. To download Docker Compose, search on Google:
-   **"docker-compose standalone"**
+   **"docker-compose standalone: https://docs.docker.com/compose/install/standalone/"**
 
 2. Alternatively, use the official standalone installation link:
    **Docker Compose Standalone Install Link –** *Docker-compose-download-link*
