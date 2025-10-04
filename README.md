@@ -23,3 +23,22 @@ Docker-comopse work on Docker Engine, So we need to install Docker & Start the D
     systemctl start docker
     systemctl status docker
 ## Step:2- [Install Docker-compose]
+
+**Docker Compose**
+Docker Compose is a tool that enables automation in managing Docker containers. It allows you to define and run multi-container Docker applications using a configuration file written in YAML.
+
+* The automation file must be written in **YAML** format.
+* The standard file name for Docker Compose is:
+  **`docker-compose.yml`**
+
+---
+
+**Steps to Install Docker Compose:**
+
+1. To download Docker Compose, search on Google:
+   **"docker-compose standalone"**
+
+2. Alternatively, use the official standalone installation link:
+   **Docker Compose Standalone Install Link –** *Docker-compose-download-link*
+
+
