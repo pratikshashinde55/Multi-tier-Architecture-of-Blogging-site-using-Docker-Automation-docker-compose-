@@ -88,8 +88,8 @@ First, create two directories:
 * Another for the **Docker Compose code**
 
 ---
-<img width="743" height="190" alt="Screenshot 2025-09-15 222218" src="https://github.com/user-attachments/assets/2a107f2b-1948-41c8-86c4-d22f374d12f0" />
 
+<img width="743" height="190" alt="Screenshot 2025-09-15 222218" src="https://github.com/user-attachments/assets/2a107f2b-1948-41c8-86c4-d22f374d12f0" />
 
 **Docker Compose Code File (`docker-compose.yml`)**
 Docker Compose uses **YAML (Yet Another Markup Language)** syntax for its configuration file.
@@ -155,7 +155,6 @@ To access the WordPress site:
 * Open your **web browser**
 * Enter:
   **`http://<EC2-Public-IP>:<Port>`**
-  <img width="935" height="882" alt="Screenshot 2025-06-07 231247" src="https://github.com/user-attachments/assets/a6e65086-baac-4e10-90d9-ebf59136a497" />
 
   <img width="1529" height="944" alt="Screenshot 2025-09-15 231243" src="https://github.com/user-attachments/assets/a28d1614-b72b-4709-a5f7-64c887cc71d7" />
 
