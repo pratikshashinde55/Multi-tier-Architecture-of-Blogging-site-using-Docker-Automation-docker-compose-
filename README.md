@@ -5,6 +5,7 @@
   An AWS EC2 instance running Amazon Linux (AMI) is used as the operating system for Docker. Docker Compose is installed manually on this instance.
 <img width="1863" height="757" alt="Screenshot 2025-06-07 231058" src="https://github.com/user-attachments/assets/e36d46bb-8024-4169-aae2-9e0652f44912" />
 
+
 * Understanding the Three-Tier Architecture:
 
 1.Application Layer: WordPress is used to power the blogging platform.
