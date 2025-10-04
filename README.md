@@ -168,8 +168,9 @@ To access the WordPress site:
 The WordPress setup interface will load in the browser via the provided IP and port.
 
 ---
-<img width="1612" height="565" alt="Screenshot 2025-09-15 231416" src="https://github.com/user-attachments/assets/11017f77-6282-47fb-bb5e-88ea8a8212cd" />
+
 <img width="1869" height="863" alt="Screenshot 2025-06-07 231622" src="https://github.com/user-attachments/assets/a097801c-8811-4ec1-92da-84ab2dfed46a" />
+<img width="1612" height="565" alt="Screenshot 2025-09-15 231416" src="https://github.com/user-attachments/assets/11017f77-6282-47fb-bb5e-88ea8a8212cd" />
 
 **About the Project**
 This project sets up a **Global Blogging Site** using Docker Compose.
@@ -178,18 +179,6 @@ This project sets up a **Global Blogging Site** using Docker Compose.
 * **MySQL** – Database for WordPress
 * **Docker Custom Network** – Enables secure container communication
 
----
-
-**Topics Covered:**
-
-* `docker`
-* `wordpress`
-* `docker-compose`
-* `mysql-database`
-* `aws-ec2`
-* `docker-automation`
-* `docker-compose-files`
-* `docker-network-driver`
 
 
 
