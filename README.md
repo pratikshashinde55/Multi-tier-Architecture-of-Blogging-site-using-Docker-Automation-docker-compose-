@@ -17,8 +17,9 @@ Docker-comopse work on Docker Engine, So we need to install Docker & Start the D
 
 ### Install Docker Command:
 
-   yum install docker
+      yum install docker
 ### Start Docker service Command:
 
-systemctl start docker
+    systemctl start docker
+    systemctl status docker
 ## Step:2- [Install Docker-compose]
