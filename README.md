@@ -22,6 +22,8 @@ Docker-comopse work on Docker Engine, So we need to install Docker & Start the D
 
     systemctl start docker
     systemctl status docker
+
+
 ## Step:2- [Install Docker-compose]
 
 **Docker Compose**
@@ -35,10 +37,49 @@ Docker Compose is a tool that enables automation in managing Docker containers. 
 
 **Steps to Install Docker Compose:**
 
-1. To download Docker Compose, search on Google:
+ To download Docker Compose, search on Google:
    **"docker-compose standalone: https://docs.docker.com/compose/install/standalone/"**
+   
+   <img width="1713" height="822" alt="Screenshot 2025-06-07 222006" src="https://github.com/user-attachments/assets/8c5e1cab-1d57-432a-9a7e-80367447bafe" />
 
-2. Alternatively, use the official standalone installation link:
-   **Docker Compose Standalone Install Link –** *Docker-compose-download-link*
+**Installing Docker Compose (Standalone Binary Method)**
+
+To install Docker Compose on a Linux system, follow these steps:
+
+---
+
+**1. Download the Docker Compose Binary**
+Use `curl` to download the Docker Compose binary directly into the `/usr/local/bin/` directory:
+
+```bash
+curl -SL https://github.com/docker/compose/releases/download/v2.20.3/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
+```
+
+---
+
+**2. Make the Docker Compose Binary Executable**
+Grant executable permissions to the downloaded binary:
+
+```bash
+chmod +x /usr/local/bin/docker-compose
+```
+
+**Explanation:**
+
+* `chmod`: Command used to change file permissions on Unix-like systems.
+* `+x`: Adds execute permission, allowing the file to be run as a program.
+* `/usr/local/bin/docker-compose`: The full path to the downloaded Docker Compose binary.
+
+Once installed, you can verify the installation with:
+
+```bash
+docker-compose --version
+```
+
+   <img width="1089" height="414" alt="Screenshot 2025-06-07 222114" src="https://github.com/user-attachments/assets/e6d28a1c-bc35-4b35-9440-d4cbd6a9bd3d" />
+
+   
+
+
 
 
